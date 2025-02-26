@@ -1,10 +1,18 @@
- 🪷 Merhaba ben Rabia Günbaş, Konya Teknik Üniversitesi 4.sınıf öğrencisiyim. 
- 
- 🎠 Mobil Application alanında kendimi geliştirmekteyim. Geçmişte bu alana Java ile başlayarak Flutter ile devam ettim. Ek olarak Veri Bilimi ve Veri Madenciliği derslerini seçmeli olarak detaylı aldığımdan dolayı Matlab ve Python üzerinden data science ile ilgilenmekteyim.
- 
- 💻 Yazılıma başladığım andan itibaren algoritma ve programlama mantığını benimsedim ve çeşitli diller üzerinden ilgimi ilertmek istedim. Bunu C, Python, Java, Sql, Matlab, Dart gibi programlama dillerini öğrenerek uygulamanın yanı sıra bu mantığı doğru uygulayabilmek adına ayrıntılı proje yönetimi, girişimcilik eğitimleriyle destekledim.
- 
- 🐥 Yazılım alanında öğrenmek istediğim daha birçok bilgi var ve bu konuları öğrenmek, araştırmak, uygulayabilmek şu anki en büyük tutkum.
+Hi, I'm Rabia Günbaş, a senior Computer Engineering student at Konya Technical University. I am passionate about mobile application development and data science.
+
+🚀 About Me
+
+🎠 I started my journey in mobile application development with Java and later transitioned to Flutter.
+
+📊 I have taken Data Science and Data Mining courses as electives, gaining hands-on experience with Matlab and Python.
+
+💻 I am proficient in multiple programming languages, including C, Python, Java, SQL, Matlab, and Dart.
+
+🏆 To complement my technical skills, I have also pursued project management and entrepreneurship training.
+
+🔍 I am eager to continuously learn, explore, and apply new technologies in software development and data science.
+
+
 
 <!--
 **rabiagnbs/rabiagnbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
